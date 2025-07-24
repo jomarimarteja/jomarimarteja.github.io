@@ -1,0 +1,280 @@
+{
+    "skills": [
+        {
+            "name": "HTML",
+            "p": "67%",
+            "i": "html5"
+        },
+        {
+            "name": "CSS",
+            "p": "40%",
+            "i": "css3"
+        },
+        {
+            "name": "Javascript",
+            "p": "85%",
+            "i": "javascript"
+        },
+        {
+            "name": "Godot",
+            "p": "74%",
+            "i": "godot"
+        },
+        {
+            "name": "Node.JS",
+            "p": "90%",
+            "i": "nodejs"
+        },
+        {
+            "name": "PHP",
+            "p": "25%",
+            "i": "php"
+        },
+        {
+            "name": "Haxe",
+            "p": "71%",
+            "i": "haxe"
+        },
+        {
+            "name": "C#",
+            "p": "79%",
+            "i": "csharp"
+        },
+        {
+            "name": "C++",
+            "p": "76%",
+            "i": "cplusplus"
+        },
+        {
+            "name": "C",
+            "p": "53%",
+            "i": "c"
+        },
+        {
+            "name": "Java",
+            "p": "69%",
+            "i": "java"
+        },
+        {
+            "name": "Flutter",
+            "p": "52%",
+            "i": "flutter"
+        },
+        {
+            "name": "Arduino",
+            "p": "74%",
+            "i": "arduino"
+        },
+        {
+            "name": "Python",
+            "p": "39%",
+            "i": "python"
+        }
+    ],
+    "projects": [
+        {
+            "href": "sdl3_vis",
+            "title": "SDL3-based C++ Audio Visualizer",
+            "desc": "A DSP project that utilizes concepts of FFT and encodes media through FFMPEG in C/C++ which allows for the synthesis of audio reactive videos.",
+            "category": ["tools"]
+        },
+        {
+            "href": "gweb_dodge",
+            "title": "GWeb Dodge",
+            "desc": "A HaxeFlixel music-based game made in 5 days about dodging falling bricks and shooting evil triangles.",
+            "category": ["game"]
+        },
+        {
+            "href": "vs_tabi",
+            "title": "FNF Vs Tabi",
+            "desc": "An indie project with a team of 4 members creating a modification of an existing HaxeFlixel rhythm game named Friday Night Funkin' that adds in a new character and became popular with millions of downloads from its novel visual effects and mechanics.",
+            "category": ["game"]
+        },
+        {
+            "href": "eternal_time_tracker",
+            "title": "Eternal Time Tracker",
+            "desc": "A mobile app for listing tasks and keeps track of when they will or had occurred.",
+            "category": ["tools"]
+        },
+        {
+            "href": "riddem",
+            "title": "Riddem",
+            "desc": "A cross-platform Godot-based rhythm game made in 72 hours with features such as audio reactivity, visual effects, and my music.",
+            "category": ["game"]
+        },
+        {
+            "href": "badflixel",
+            "title": "BadFlixel",
+            "desc": "A port of the famous Bad Apple video on HaxeFlixel using its builtin rendering features loading a customized binary format which was generated from OpenCV consisting of contour data.",
+            "category": ["tools"]
+        },
+        {
+            "href": "squake",
+            "title": "Squake",
+            "desc": "A HaxeFlixel game made in 3 hours (including its soundtrack) from the words: <b>Square</b> and <b>Snake</b> which is based on the appearance of the main player as a snake trying to avoid randomly spawning squares inside the digital grid.",
+            "category": ["game"]
+        },
+        {
+            "href": "mangdownloader",
+            "title": "MangDownloader",
+            "desc": "An Electron-based manga scraper created for the purpose of being able to read manga without interruptions using HTML DOM manipulation.",
+            "category": ["tools"]
+        },
+        {
+            "href": "jump_cubic",
+            "title": "Jump Cubic",
+            "desc": "A 2 dimensional HTML5 game rendered entirely with code in javascript about a cube jumping on top of many incoming red walls which could last infinitely and gets harder.",
+            "category": ["game", "web"]
+        }
+    ],
+    "projectCategories": [
+        {
+            "id": "tools",
+            "name": "Tools"
+        },
+        {
+            "id": "web",
+            "name": "Web Projects"
+        },
+        {
+            "id": "game",
+            "name": "Game Development"
+        },
+        {
+            "id": "exp",
+            "name": "Experimental"
+        },
+        {
+            "id": "legacy",
+            "name": "Archived"
+        }
+    ],
+    "music": [
+        {
+            "href": "fragile",
+            "title": "Fragile",
+            "artist": "GWeb",
+            "genre": "Otacore"
+        },
+        {
+            "href": "light",
+            "title": "Light",
+            "artist": "GWeb",
+            "genre": "Drum & Bass"
+        },
+        {
+            "href": "stray",
+            "title": "Stray",
+            "artist": "GWeb",
+            "genre": "Happy Hardcore"
+        },
+        {
+            "href": "shockwaves",
+            "title": "Shockwaves",
+            "artist": "GWeb",
+            "genre": "Electro"
+        },
+        {
+            "href": "divert",
+            "title": "Divert",
+            "artist": "GWeb",
+            "genre": "Melodic Dubstep"
+        },
+        {
+            "href": "life",
+            "title": "Life",
+            "artist": "GWeb",
+            "genre": "Electro House"
+        },
+        {
+            "href": "awe",
+            "title": "Awe",
+            "artist": "GWeb",
+            "genre": "Progressive House"
+        },
+        {
+            "href": "euphoria",
+            "title": "Euphoria",
+            "artist": "GWeb",
+            "genre": "Electro"
+        },
+        {
+            "href": "fresh",
+            "title": "Fresh",
+            "artist": "GWeb",
+            "genre": "Drum & Bass, Future Bass, Hardcore"
+        },
+        {
+            "href": "haze",
+            "title": "Haze",
+            "artist": "GWeb",
+            "genre": "Artcore"
+        },
+        {
+            "href": "sweetambience",
+            "title": "Sweet Ambience",
+            "artist": "GWeb",
+            "genre": "Drum & Bass"
+        },
+        {
+            "href": "drops",
+            "title": "Drops",
+            "artist": "GWeb",
+            "genre": "Tropical House"
+        },
+        {
+            "href": "distantpast",
+            "title": "Distant Past",
+            "artist": "GWeb",
+            "genre": "House"
+        },
+        {
+            "href": "reminisce",
+            "title": "Reminisce",
+            "artist": "GWeb",
+            "genre": "Future House"
+        },
+        {
+            "href": "moonlight",
+            "title": "Moonlight",
+            "artist": "GWeb",
+            "genre": "Progressive House"
+        },
+        {
+            "href": "sweet",
+            "title": "Sweet",
+            "artist": "GWeb",
+            "genre": "Future Bass"
+        },
+        {
+            "href": "sunset",
+            "title": "Sunset",
+            "artist": "Fred X & GWeb",
+            "genre": "Melodic House"
+        },
+        {
+            "href": "mellow",
+            "title": "Mellow",
+            "artist": "GWeb",
+            "genre": "Chill Downtempo"
+        },
+        {
+            "href": "passageway",
+            "title": "Passageway",
+            "artist": "GWeb",
+            "genre": "Lofi"
+        },
+        {
+            "href": "tranquil",
+            "title": "Tranquil",
+            "artist": "GWeb",
+            "genre": "Lofi"
+        },
+        {
+            "href": "ulan",
+            "title": "Ulan (Rain)",
+            "artist": "GWeb",
+            "genre": "Electro"
+        }
+    ]
+}
