@@ -129,7 +129,7 @@
 		{
 			"href": "midi_piezo",
 			"title": "ESP8266 Wifi Midi Piezo Playback System",
-			"desc": "A project I made when learning about Arduinos which has a functional system for playing back MIDI files through a piezo module with its own serialized binary format."
+			"desc": "A project I made when learning about Arduinos which has a functional system for playing back MIDI files through a piezo module with its own serialized binary format.",
 			"category": ["tools"]
 		}
     ],
