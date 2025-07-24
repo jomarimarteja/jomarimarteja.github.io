@@ -125,7 +125,13 @@
             "title": "Jump Cubic",
             "desc": "A 2 dimensional HTML5 game rendered entirely with code in javascript about a cube jumping on top of many incoming red walls which could last infinitely and gets harder.",
             "category": ["game", "web"]
-        }
+        },
+		{
+			"href": "midi_piezo",
+			"title": "ESP8266 Wifi Midi Piezo Playback System",
+			"desc": "A project I made when learning about Arduinos which has a functional system for playing back MIDI files through a piezo module with its own serialized binary format."
+			"category": ["tools"]
+		}
     ],
     "projectCategories": [
         {
