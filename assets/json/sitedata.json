@@ -137,6 +137,18 @@
             "title": "C++ Godot-based Flowchart Creator Tool",
             "desc": "A work in progress Godot project that was made with the utilization of GDExtension in Godot 4 to render flowcharts with a customized look alongside extra features such as image exports and for optimization purposes.",
             "category": ["exp"]
+        },
+		{
+            "href": "vs_robtop",
+            "title": "FNF Vs Robtop",
+            "desc": "A work in progress Godot port of the game Friday Night Funkin' with a team of artists and composers to create a FNF mod/fangame in order to put a novel twist on the trend of FNF mods.",
+            "category": ["exp"]
+        },
+		{
+            "href": "snaf",
+            "title": "Six Nights at Freddy's",
+            "desc": "A command line-based game that I scripted in Batch when first learning how to code on 2017.",
+            "category": ["legacy"]
         }
     ],
     "projectCategories": [
