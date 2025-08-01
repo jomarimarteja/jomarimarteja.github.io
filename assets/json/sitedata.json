@@ -132,6 +132,18 @@
             "desc": "A project I made when learning about Arduinos which has a functional system for playing back MIDI files through a piezo module with its own serialized binary format.",
             "category": ["tools"]
         },
+		{
+            "href": "yad",
+            "title": "Youtube Archive Downloader",
+            "desc": "A CLI tool coded in Haxe that scrapes from the internet archive in order to track privated/deleted youtube videos.",
+            "category": ["tools"]
+        },
+		{
+            "href": "harmonic_analyzer",
+            "title": "Realtime MIDI Harmonic Analyzer",
+            "desc": "A Node.JS tool that plays back a MIDI file through soundfonts and utilizes concepts of functional harmony in order to calculate dissonance rendered through a live web graph utilizing socket.io for client-server communication between the graph and analyzer.",
+            "category": ["tools"]
+        },
         {
             "href": "flowchart_creator",
             "title": "C++ Godot-based Flowchart Creator Tool",
