@@ -173,7 +173,7 @@
             "title": "Six Nights at Freddy's",
             "desc": "A command line-based game that I scripted in Batch when first learning how to code on 2017.",
             "category": ["legacy"]
-        },
+        }
     ],
     "projectCategories": [
         {
