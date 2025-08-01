@@ -131,6 +131,12 @@
             "title": "ESP8266 Wifi Midi Piezo Playback System",
             "desc": "A project I made when learning about Arduinos which has a functional system for playing back MIDI files through a piezo module with its own serialized binary format.",
             "category": ["tools"]
+        },
+        {
+            "href": "flowchart_creator",
+            "title": "C++ Godot-based Flowchart Creator Tool",
+            "desc": "A work in progress Godot project that was made with the utilization of GDExtension in Godot 4 to render flowcharts with a customized look alongside extra features such as image exports and for optimization purposes.",
+            "category": ["exp"]
         }
     ],
     "projectCategories": [
